@@ -77,7 +77,7 @@ function double('7') {
 }
 */
 // variables inside the functions not same the parameteres
-
+// parameteres can't be a number of strings
 
 /*
 6
